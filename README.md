@@ -49,4 +49,3 @@ model Article {
 ```bash
 pnpm prisma migrate dev --name init
 ```
-
